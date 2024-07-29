@@ -44,7 +44,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
-        gap: 0px
+        gap: 24px
     }
     .left_side h2 {
         font-size: 48px;
